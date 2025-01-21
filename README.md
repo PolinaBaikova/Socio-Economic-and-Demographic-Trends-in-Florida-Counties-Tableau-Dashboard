@@ -5,9 +5,11 @@ Tableau dashboard is available at the following link: [Dashboard](https://public
 # How to Explore the Dashboard:
 
 **Hover for Additional Information:**
+
 Hover over any county on the map or data points in charts to view detailed information, such as county name, population, crime rates, average home values, and other key statistics.
 
 **Filter Data:**
+
 Use the available filters to refine the data by factors such as year, school type, and county rankings, helping you focus on the most relevant information.
 
 **Navigate to Detailed Insights:**
